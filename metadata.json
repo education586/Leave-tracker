@@ -1,0 +1,6 @@
+{
+  "name": "LeaveTracker",
+  "description": "Annual and sick leave balance dashboard with automatic PTO accrual calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
